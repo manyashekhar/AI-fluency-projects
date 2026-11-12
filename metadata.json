@@ -1,0 +1,7 @@
+{
+  "name": "CampusEvents AI - College Event Management Assistant",
+  "description": "AI assistant for college event management, handling registrations, capacity checks, calendar sync, and admin event operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
